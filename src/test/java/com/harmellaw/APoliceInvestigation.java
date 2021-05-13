@@ -39,3 +39,4 @@ public class APoliceInvestigation {
         assertTrue(exception.getMessage().contains("You must provide a suspect"));
     }
 }
+
