@@ -3,4 +3,12 @@ what is eventstorming and how can we use it to confirm our ddd model with non-te
 check out the puml files and how they can be used (a diagram?)
 https://verraes.net/2014/08/dry-is-about-knowledge/
 
+NOTES:
 al94781@twitter for more questions
+
+
+DONE:
+  Enable visualization of model by:
+    installing the Intellij PlantUML parser plugin
+    installing Graphviz (brew install graphviz)
+    using Andrew's puml (or generating one via the above parser plugin)
